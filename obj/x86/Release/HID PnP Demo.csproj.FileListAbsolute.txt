@@ -1,0 +1,26 @@
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe.config
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.pdb
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Form1.resources
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Properties.Resources.resources
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.csproj.GenerateResource.Cache
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.exe
+C:\microchip_solutions_v2013-06-15\USB\Device - HID - Custom Demos\PnP Demo - Windows Software\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.pdb
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe.config
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.pdb
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.pdb
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Form1.resources
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Properties.Resources.resources
+C:\Users\PLCyn\Desktop\MGYM codeprotov1\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe.config
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Release\HID PnP Demo.pdb
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.csprojResolveAssemblyReference.cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Form1.resources
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID_PnP_Demo.Properties.Resources.resources
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.csproj.CoreCompileInputs.cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Release\HID PnP Demo.pdb

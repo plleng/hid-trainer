@@ -1,0 +1,10 @@
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Debug\HID PnP Demo.exe.config
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Debug\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\bin\x86\Debug\HID PnP Demo.pdb
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID PnP Demo.csprojResolveAssemblyReference.cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID_PnP_Demo.Properties.Resources.resources
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID PnP Demo.csproj.CoreCompileInputs.cache
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID PnP Demo.exe
+C:\Users\PLCyn\Desktop\mGym\PC_mGym_APP\vscsharp 2010\Microsoft Visual CSharp 2005 Express\obj\x86\Debug\HID PnP Demo.pdb
